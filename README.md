@@ -1,4 +1,4 @@
-# ServiceNet-API
+# TakeBlip Challenge
 
 API Rest desenvolvida como desafio do processo seletivo da empresa TakeBlip.
 
